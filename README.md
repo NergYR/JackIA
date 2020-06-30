@@ -1,2 +1,2 @@
 # JackIA
-A personnal Assistant made with Python and :hearth: by Energetiq
+A personnal Assistant made with Python and ♥️ by Energetiq
